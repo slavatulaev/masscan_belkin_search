@@ -1,0 +1,11 @@
+Banner: cipher:0xc014 , linksyssmartwifi.com
+Banner: cipher:0xc014 , remote.desirecementtile.com
+Banner: cipher:0x39 , myrouter.local
+Banner: cipher:0x35 , Vanguard
+Banner: cipher:0x35 , Vigor Router
+Banner: cipher:0x4 , Vigor Router
+Banner: Linksys Smart Wi-Fi
+Banner: RouterOS router configuration page
+Banner: WEB SERVICE
+Banner: DD-WRT
+Server: Router Webserver
